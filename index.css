@@ -1,0 +1,24 @@
+.navigation {
+    height: 80px;
+    background-color:green;
+}
+
+.navigation ul {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation ul li {
+    margin-left: 90px;
+    list-style-type: none;
+    line-height: 80px;
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    font-size: 40px;
+    color: black;
+}
+.navigation ul li a:hover {
+    color: #D40D26;
+}
