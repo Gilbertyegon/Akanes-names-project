@@ -12,9 +12,9 @@
 
 
 ## Technologies used
-1. HTML git
-2. css
-3. Javascript
+> 1. HTML git
+> 2. css
+> 3. Javascript
 
 ## Live site
 view [live](https://gilbertyegon.github.io/Akanes-names-project/)
