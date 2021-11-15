@@ -9,7 +9,9 @@ so as to access the project on ur local files, you have to clone it using the st
 2. use git clone command to clone the project
 3. this will clone the repository into your local browser
 4. work on the project and push it to git
-## Tech used
+
+
+## Technologies used
 1. HTML git
 2. css
 3. Javascript
