@@ -21,7 +21,6 @@ view [live](https://gilbertyegon.github.io/Akanes-names-project/)
   
 MIT License
 
-Copyright (c) [2021] [Gilbert Yegon]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
