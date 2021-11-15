@@ -1,3 +1,4 @@
+let maleAkanNames = ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kwame']
 
 let femaleAkanNames = ['Akosua','Adwoa','Abenaa','Akua','Yaa','Afua','Ama']
 
