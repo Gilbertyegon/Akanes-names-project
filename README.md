@@ -1,7 +1,8 @@
 ## Akane names project
 ### By Gibert Yegon
 ### Description
-This is a web application that autogenerates a user's Akan name based on the Akan culture. The Akan names are usually based on the specific day on which an individual was born.Through this web application, you can fill in your birth date,month and year through aform and submit it. Once you do so, you will be able to see your Akan name based on your gender
+> This is a web application that autogenerates a user's Akan name based on the Akan culture. The Akan names are usually based on the specific day on which an 
+>  individual was born.Through this web application, you can fill in your birth date,month and year through aform and submit it. Once you do so, you will be able > to see your Akan name based on your gender
 #### set up instructions
 so as to access the project on ur local files, you have to clone it using the steps below 
 1. open the terminal . press CTRL+ALT+T ubuntu and ctrl+shift+t in macos
